@@ -1,0 +1,13 @@
+C:\Users\jaguilar\source\repos\PracticaN1\PracticaN1\bin\Debug\PracticaN1.exe.config
+C:\Users\jaguilar\source\repos\PracticaN1\PracticaN1\bin\Debug\PracticaN1.exe
+C:\Users\jaguilar\source\repos\PracticaN1\PracticaN1\bin\Debug\PracticaN1.pdb
+C:\Users\jaguilar\source\repos\PracticaN1\PracticaN1\obj\Debug\PracticaN1.csprojAssemblyReference.cache
+C:\Users\jaguilar\source\repos\PracticaN1\PracticaN1\obj\Debug\PracticaN1.Properties.Resources.resources
+C:\Users\jaguilar\source\repos\PracticaN1\PracticaN1\obj\Debug\PracticaN1.csproj.GenerateResource.cache
+C:\Users\jaguilar\source\repos\PracticaN1\PracticaN1\obj\Debug\PracticaN1.csproj.CoreCompileInputs.cache
+C:\Users\jaguilar\source\repos\PracticaN1\PracticaN1\obj\Debug\PracticaN1.exe
+C:\Users\jaguilar\source\repos\PracticaN1\PracticaN1\obj\Debug\PracticaN1.pdb
+C:\Users\jaguilar\source\repos\PracticaN1\PracticaN1\obj\Debug\PracticaN1.Form1.resources
+C:\Users\jaguilar\source\repos\PracticaN1\PracticaN1\obj\Debug\PracticaN1.Vista.LogIn.resources
+C:\Users\jaguilar\source\repos\PracticaN1\PracticaN1\obj\Debug\PracticaN1.Vista.FrmCliente.resources
+C:\Users\jaguilar\source\repos\PracticaN1\PracticaN1\obj\Debug\PracticaN1.Vista.FrmUsers.resources
